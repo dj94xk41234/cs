@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DaqTest\DaqTest\bin\Debug\DaqTest.exe.config
+C:\Users\User\Desktop\DaqTest\DaqTest\bin\Debug\DaqTest.exe
+C:\Users\User\Desktop\DaqTest\DaqTest\bin\Debug\DaqTest.pdb
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Form1.resources
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Properties.Resources.resources
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.exe
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.pdb
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Forms.FormB2.resources
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Forms.FormB3.resources
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Forms.FormB4.resources
+C:\Users\User\Desktop\DaqTest\DaqTest\obj\Debug\DaqTest.Forms.FormProduct.resources
